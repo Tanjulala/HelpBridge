@@ -20,6 +20,7 @@
     3. Donate items, funds, or services
     4. View donation history and current status
     5. Browse crisis events
+    6. View New Crisis Event
 - **Support Seeker**
     1. Register and log In
     2. Forget password
