@@ -13,6 +13,7 @@
     3. Verify and approve donations and aid requests
     4. Update distribution status
     5. View history and records of all contributions
+    6. Generate detailed activity reports of verified donations
 - **Citizen**
     1. Register and log In
     2. Forget password
