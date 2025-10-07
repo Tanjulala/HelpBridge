@@ -26,6 +26,7 @@
     3. Submit aid requests based on their needs
     4. Edit or update submitted requests 
     5. Track request status (pending, approved, fulfilled)
+    6.Receive notifications about aid updates.
 
 HelpBridge makes relief efforts more effective by handling the entire process—from registration to approval and tracking. This organized approach delivers quick, transparent support when communities need it most.
 
